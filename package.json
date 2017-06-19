@@ -1,0 +1,19 @@
+{
+  "name": "ajv-data-table",
+  "version": "1.0.0",
+  "description": "AJV-Plugin with the \"data-table\" keyword for tabular (i.e. column) data objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ajv",
+    "data",
+    "table",
+    "column",
+    "object",
+    "keyword"
+  ],
+  "author": "Jason Thorpe",
+  "license": "ISC"
+}
